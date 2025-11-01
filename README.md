@@ -121,7 +121,7 @@ Salve! Meu nome é Vinícius Formoso e sou natural do Rio de Janeiro. Atualmente
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusformoso&theme=neon&layout=compact&custom_title=Tecnologias&langs_count=4" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusformoso&theme=neon&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 
 </p>
