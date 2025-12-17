@@ -108,20 +108,13 @@ Salve! Meu nome é Vinícius Formoso e sou natural do Rio de Janeiro. Atualmente
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=viniciusformoso&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusformoso&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-</p>
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusformoso&show_icons=true&theme=tokyonight&include_all_commits=true" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusformoso&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  </div>
+
+</div>
+
