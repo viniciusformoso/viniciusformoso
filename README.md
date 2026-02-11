@@ -35,6 +35,15 @@ Salve! Meu nome é Vinícius Formoso e sou natural do Rio de Janeiro. Atualmente
 
 <img 
     align="left" 
+    alt=".NET"
+    title=".NET" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.iconscout.com/icon/free/png-256/free-dot-net-logo-icon-svg-download-png-2944837.png" 
+/>
+
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
